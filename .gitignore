@@ -39,3 +39,4 @@ docs/
 *.db
 *.sqlite3
 "bank_statement_agent.pdf" 
+bank_statement_agent.pdf
