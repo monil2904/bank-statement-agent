@@ -34,3 +34,4 @@ Thumbs.db
 # ── Backend runtime ──
 *.db
 *.sqlite3
+"bank_statement_agent.pdf" 
