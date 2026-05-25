@@ -31,6 +31,10 @@ Thumbs.db
 *.swp
 *.swo
 
+# ── Documentation / Agent files ──
+*.md
+docs/
+
 # ── Backend runtime ──
 *.db
 *.sqlite3
