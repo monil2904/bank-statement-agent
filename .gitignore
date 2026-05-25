@@ -1,0 +1,36 @@
+# ── Secrets ──
+.env
+*.env.local
+*.env.development
+*.env.production
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+
+# ── Node / Frontend ──
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+npm-debug.log*
+
+# ── OS / Editor ──
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Backend runtime ──
+*.db
+*.sqlite3
